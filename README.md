@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- Currently on R.
+- Currently Learning R
+- Looking to collaborate on projects.
+- Looking for help with R
+- Ask me about R and programming
+- She/Her
+- You can reach me through moodle.
+- I like to sleep. - Fun fact
 <!--
 **Eefoma/Eefoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +19,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- She/Her
 - ⚡ Fun fact: ...
 -->
